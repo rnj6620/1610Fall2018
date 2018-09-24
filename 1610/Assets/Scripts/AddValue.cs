@@ -18,12 +18,12 @@ public class AddValue : ScriptableObject
 		
 		if (ValueObj.Value >= MaxValue.Value)
 		{
-			Event.Invoke();
+			EventMax.Invoke();
 		}
 
 		if (ValueObj.Value <= MinValue.Value)
 		{
-			Event.Invoke();
+			EventMin.Invoke();
 		}
 	}
 }

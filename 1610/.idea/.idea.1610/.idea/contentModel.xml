@@ -12,6 +12,7 @@
           <e p="AddValue.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="MouseDownBehavior.cs" t="Include" />
+          <e p="MouseEventBehavior.cs" t="Include" />
           <e p="Move.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
         </e>

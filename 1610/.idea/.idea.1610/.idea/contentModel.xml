@@ -16,6 +16,7 @@
           <e p="Move.cs" t="Include" />
           <e p="PowerUp.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
+          <e p="Value.cs" t="Include" />
           <e p="Variables.cs" t="Include" />
         </e>
       </e>

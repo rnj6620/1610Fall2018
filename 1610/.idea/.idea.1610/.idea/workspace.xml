@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e8f26e62-7601-48d5-9827-643ddecd9b39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,47 +23,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="4070" />
+          <entry key="cs" value="4195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="4070" />
+          <entry key="C#" value="4195" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="22" />
+          <entry key="cs" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="22" />
+          <entry key="C#" value="26" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="46" column="20" selection-start-line="46" selection-start-column="20" selection-end-line="46" selection-end-column="20" />
-              <folding>
-                <marker date="1539205522338" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539205522338" expanded="true" signature="123:403" ph="{...}" />
-                <marker date="1539205522338" expanded="true" signature="248:283" ph="{...}" />
-                <marker date="1539205522338" expanded="true" signature="318:351" ph="{...}" />
-                <marker date="1539205522338" expanded="true" signature="384:401" ph="{...}" />
-                <marker date="1539205522338" expanded="true" signature="442:588" ph="{...}" />
-                <marker date="1539205522338" expanded="true" signature="506:586" ph="{...}" />
-                <marker date="1539205522338" expanded="true" signature="647:753" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -93,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/AddToCollection.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -107,6 +87,53 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ValueChange.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1539810781407" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539810781407" expanded="true" signature="141:317" ph="{...}" />
+                <marker date="1539810781407" expanded="true" signature="206:239" ph="{...}" />
+                <marker date="1539810781407" expanded="true" signature="282:315" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <marker date="1539811673501" expanded="true" signature="6:40" ph="..." />
+                <marker date="1539811673501" expanded="true" signature="87:317" ph="{...}" />
+                <marker date="1539811673501" expanded="true" signature="183:222" ph="{...}" />
+                <marker date="1539811673501" expanded="true" signature="276:315" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Value.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <marker date="1538098293913" expanded="false" signature="6:44" ph="..." />
+                <marker date="1538098293913" expanded="true" signature="80:512" ph="{...}" />
+                <marker date="1538098293913" expanded="true" signature="163:209" ph="{...}" />
+                <marker date="1538098293913" expanded="true" signature="264:310" ph="{...}" />
+                <marker date="1538098293913" expanded="true" signature="365:411" ph="{...}" />
+                <marker date="1538098293913" expanded="true" signature="464:510" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,53 +142,6 @@
               <folding>
                 <marker date="1539637014779" expanded="false" signature="6:78" ph="..." />
                 <marker date="1539637014779" expanded="true" signature="137:143" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-              <folding>
-                <marker date="1538602596510" expanded="false" signature="6:78" ph="..." />
-                <marker date="1538602596510" expanded="true" signature="123:882" ph="{...}" />
-                <marker date="1538602596510" expanded="true" signature="368:426" ph="{...}" />
-                <marker date="1538602596510" expanded="true" signature="480:880" ph="{...}" />
-                <marker date="1538602596510" expanded="true" signature="512:789" ph="{...}" />
-                <marker date="1538602596510" expanded="true" signature="747:785" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Instancing.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-              <folding>
-                <marker date="1539032500111" expanded="true" signature="6:78" ph="..." />
-                <marker date="1539032500111" expanded="true" signature="119:324" ph="{...}" />
-                <marker date="1539032500111" expanded="true" signature="201:320" ph="{...}" />
-                <marker date="1539032500111" expanded="true" signature="239:317" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <marker date="1539034123858" expanded="false" signature="6:78" ph="..." />
-                <marker date="1539034123858" expanded="true" signature="123:357" ph="{...}" />
-                <marker date="1539034123858" expanded="true" signature="180:245" ph="{...}" />
-                <marker date="1539034123858" expanded="true" signature="294:355" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -206,6 +186,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MouseDownBehavior.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectCollection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F718FBF7-147E-4022-82FD-ACF37BDD8584/74/ca6bcb02/UnityEvent.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/PowerUp.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
@@ -214,6 +195,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Variables.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Value.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NameID.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ValueChange.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/WhatCanSeeIt.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LocalVars.cs" root0="FORCE_HIGHLIGHTING" />
@@ -245,6 +227,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/NameID.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ObjectCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AddToCollection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ValueChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs" />
       </list>
     </option>
   </component>
@@ -322,12 +306,12 @@
       <workItem from="1537218326836" duration="5468000" />
       <workItem from="1537821127398" duration="17027000" />
       <workItem from="1539204461575" duration="2202000" />
-      <workItem from="1539636626763" duration="2037000" />
+      <workItem from="1539636626763" duration="4331000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26734000" />
+    <option name="totallyTimeSpent" value="29028000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -420,13 +404,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ChangeColor.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyCharacter.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CreateObject.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -434,13 +411,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Value.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="12" selection-start-column="3" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -571,6 +541,59 @@
             <marker date="1539638636845" expanded="false" signature="6:78" ph="..." />
             <marker date="1539638636845" expanded="true" signature="145:268" ph="{...}" />
             <marker date="1539638636845" expanded="true" signature="226:266" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Value.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <marker date="1538098293913" expanded="false" signature="6:44" ph="..." />
+            <marker date="1538098293913" expanded="true" signature="80:512" ph="{...}" />
+            <marker date="1538098293913" expanded="true" signature="163:209" ph="{...}" />
+            <marker date="1538098293913" expanded="true" signature="264:310" ph="{...}" />
+            <marker date="1538098293913" expanded="true" signature="365:411" ph="{...}" />
+            <marker date="1538098293913" expanded="true" signature="464:510" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1537995793277" expanded="false" signature="6:44" ph="..." />
+            <marker date="1537995793277" expanded="true" signature="95:249" ph="{...}" />
+            <marker date="1537995793277" expanded="true" signature="172:197" ph="{...}" />
+            <marker date="1537995793277" expanded="true" signature="221:247" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <marker date="1539811673501" expanded="true" signature="6:40" ph="..." />
+            <marker date="1539811673501" expanded="true" signature="87:317" ph="{...}" />
+            <marker date="1539811673501" expanded="true" signature="183:222" ph="{...}" />
+            <marker date="1539811673501" expanded="true" signature="276:315" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ValueChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1539810781407" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539810781407" expanded="true" signature="141:317" ph="{...}" />
+            <marker date="1539810781407" expanded="true" signature="206:239" ph="{...}" />
+            <marker date="1539810781407" expanded="true" signature="282:315" ph="{...}" />
           </folding>
         </state>
       </provider>

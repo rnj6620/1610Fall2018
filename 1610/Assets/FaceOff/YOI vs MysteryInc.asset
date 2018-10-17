@@ -9,6 +9,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a8c7806f6ab36104f96b134f31bac4b3, type: 3}
-  m_Name: YOIvsMysteryInc
+  m_Name: YOI vs MysteryInc
   m_EditorClassIdentifier: 
-  ObjectList: []
+  ObjectList:
+  - {fileID: 11400000, guid: 567e904cfb1d5a448851865e264d3626, type: 2}
+  - {fileID: 11400000, guid: 39d148e85a858d54eb6ca78d2a1e4bfa, type: 2}

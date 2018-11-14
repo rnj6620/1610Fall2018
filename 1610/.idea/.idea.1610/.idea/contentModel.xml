@@ -11,8 +11,12 @@
           <e p="AddMoney.cs" t="Include" />
           <e p="AddToCollection.cs" t="Include" />
           <e p="AddValue.cs" t="Include" />
+          <e p="AI" t="Include">
+            <e p="BasicAI.cs" t="Include" />
+          </e>
           <e p="CharacterMover.cs" t="Include" />
           <e p="DestroyObject.cs" t="Include" />
+          <e p="EventRepeat.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="GameStates.cs" t="Include" />
           <e p="Instancing.cs" t="Include" />
@@ -24,6 +28,7 @@
           <e p="NameID.cs" t="Include" />
           <e p="ObjectCollection.cs" t="Include" />
           <e p="PowerUp.cs" t="Include" />
+          <e p="StateMachine.cs" t="Include" />
           <e p="SwitchStatements.cs" t="Include" />
           <e p="TriggerEventBehavior.cs" t="Include" />
           <e p="UpdateImageValue.cs" t="Include" />

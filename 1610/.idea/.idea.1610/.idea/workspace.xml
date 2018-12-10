@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e8f26e62-7601-48d5-9827-643ddecd9b39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bullet.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CrappyGame.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CrappyGame.unity" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,22 +29,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="5285" />
+          <entry key="cs" value="5289" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="5285" />
+          <entry key="C#" value="5289" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="38" />
+          <entry key="cs" value="39" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="38" />
+          <entry key="C#" value="39" />
         </counts>
       </usages-collector>
     </session>
@@ -99,10 +100,24 @@
             <state relative-caret-position="105">
               <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
               <folding>
-                <marker date="1544379997345" expanded="false" signature="6:78" ph="..." />
-                <marker date="1544379997345" expanded="true" signature="123:357" ph="{...}" />
-                <marker date="1544379997345" expanded="true" signature="180:245" ph="{...}" />
-                <marker date="1544379997345" expanded="true" signature="294:355" ph="{...}" />
+                <marker date="1544474326328" expanded="false" signature="6:78" ph="..." />
+                <marker date="1544474326328" expanded="true" signature="123:357" ph="{...}" />
+                <marker date="1544474326328" expanded="true" signature="180:245" ph="{...}" />
+                <marker date="1544474326328" expanded="true" signature="294:355" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ValueChange.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1539810781407" expanded="false" signature="6:78" ph="..." />
+                <marker date="1539810781407" expanded="true" signature="141:317" ph="{...}" />
+                <marker date="1539810781407" expanded="true" signature="206:239" ph="{...}" />
+                <marker date="1539810781407" expanded="true" signature="282:315" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -252,12 +267,12 @@
       <workItem from="1539636626763" duration="10191000" />
       <workItem from="1541453110258" duration="2722000" />
       <workItem from="1542233612705" duration="162000" />
-      <workItem from="1544332759604" duration="3092000" />
+      <workItem from="1544332759604" duration="5115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40864000" />
+    <option name="totallyTimeSpent" value="42887000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -405,13 +420,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEventBehavior.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ValueChange.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/UpdateImageValue.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -508,15 +516,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ValueChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1539810781407" expanded="false" signature="6:78" ph="..." />
+            <marker date="1539810781407" expanded="true" signature="141:317" ph="{...}" />
+            <marker date="1539810781407" expanded="true" signature="206:239" ph="{...}" />
+            <marker date="1539810781407" expanded="true" signature="282:315" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DestroyObject.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
           <folding>
-            <marker date="1544379997345" expanded="false" signature="6:78" ph="..." />
-            <marker date="1544379997345" expanded="true" signature="123:357" ph="{...}" />
-            <marker date="1544379997345" expanded="true" signature="180:245" ph="{...}" />
-            <marker date="1544379997345" expanded="true" signature="294:355" ph="{...}" />
+            <marker date="1544474326328" expanded="false" signature="6:78" ph="..." />
+            <marker date="1544474326328" expanded="true" signature="123:357" ph="{...}" />
+            <marker date="1544474326328" expanded="true" signature="180:245" ph="{...}" />
+            <marker date="1544474326328" expanded="true" signature="294:355" ph="{...}" />
           </folding>
         </state>
       </provider>
